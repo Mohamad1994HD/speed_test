@@ -64,7 +64,7 @@ Upload: 0.00 Mbit/s
 ### Note:
 _I have used python 2.7.x on windows os_
 
-speedtest-cli package is required to be installed on the system:
+speedtest-cli package is *required* to be installed on the system:
 
 ```
 >>> pip install speedtest-cli
